@@ -22,6 +22,7 @@ public class CalcBB implements Serializable {
 
 	public void setX(Double x) {
 		this.x = x;
+		
 	}
 
 	public Double getY() {
